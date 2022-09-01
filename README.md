@@ -1,1 +1,1 @@
-Shell basics
+Learning shell basics today
