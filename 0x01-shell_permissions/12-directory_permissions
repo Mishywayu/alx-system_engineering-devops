@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir chmod 751 my_dir
 mkdir my_dir grep chmod 751 my_dir
